@@ -104,7 +104,7 @@ include('config.php'); ?>
         </p>
         <p>
         <!-- You may only delete this notice if you have a "copyright removal licence" - COPYRIGHT by ScriptABC.com -->
-          <a href="http://scriptabc.com/" target="_blank" title="<?=$website_title?> Script"><?=$website_title?> Script</a> by <!--<a href="http://scriptabc.com/" target="_blank" title="PHP Scripts">ScriptABC.com</a>
+          <a href="http://#.com/" target="_blank" title="<?=$website_title?> Script"><?=$website_title?> Script</a> by <!--<a href="http://scriptabc.com/" target="_blank" title="PHP Scripts">ScriptABC.com</a>
         <!-- You may only delete this notice if you have a "copyright removal licence" - COPYRIGHT by ScriptABC.com -->
         </p>
       </footer>
